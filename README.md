@@ -8,11 +8,10 @@
 ## 💻 Interesses em tecnologia
 - Desenvolvimento Web
 - Programação
-- Inteligência Artificial
 - Banco de Dados
 
 ## 🚀 Objetivos futuros
-- Me tornar um desenvolvedor(a) completo(a)
+- Me tornar um desenvolvedora completa
 - Criar meus próprios projetos
 - Trabalhar na área de tecnologia
 
